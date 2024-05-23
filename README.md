@@ -28,8 +28,8 @@ The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dat
 - **`Breast Cancer Wisconsin (Diagnostic) Data Set.csv`**: This file contains the dataset used for training and testing the machine learning models. It includes features extracted from medical images of breast tumors.
 
 ## Files
-- **`PR-Project-Khaleghi-40106674.ipynb`**: Jupyter Notebook containing the implementation and analysis.
-- **`PR_project.pdf`**: Project report detailing the methodology, results, and conclusions.
+- **`breast-cancer-classification.ipynb`**: Jupyter Notebook containing the implementation and analysis.
+- **`report.pdf`**: Project report detailing the methodology, results, and conclusions.
 - **`Breast Cancer Wisconsin (Diagnostic) Data Set.csv`**: The dataset file used for the classification task.
 
 ## Prerequisites
